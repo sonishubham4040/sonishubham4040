@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubham Soni
-- 👀 I’m interested in web Development & data structures
+- 👀 I’m interested in Web Development & Data Structures
 - 🌱 I’m currently learning DSA 
-- 💞️ I’m looking for an internship
+- 💞️ I’m looking for an Internship
 - 📫 How to reach me: sonishubham4040@gmail.com
 
 <!---
