@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubham Soni
-- 👀 I’m interested in Web Development & C++ Programming
-- 🌱 I’m currently learning DSA 
-- 💞️ I’m looking for an Internship
+- 👀 I’m interested in Front End Development & C++ Programming
+- 🌱 I’m currently learning Advance DSA 
+- 💞️ I’m looking for an Internship / Full-Time opportunity
 - 📫 How to reach me: sonishubham4040@gmail.com
 
 <!---
